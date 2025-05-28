@@ -1,0 +1,9 @@
+-- MOST PROFITABLE PRODUCTS
+SELECT [Product Name], SUM(Profit) AS Total_Profit
+FROM sales
+
+GROUP BY [Product Name]
+-- SORT
+ORDER BY Total_Profit DESC
+-- NUMBER OF MOST PROFITABLE PRODUCTS
+LIMIT 10;
