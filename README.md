@@ -51,10 +51,26 @@ This project demonstrates how to analyze and visualize Superstore sales data usi
     ```cmd
     streamlit run app.py
     ```
-    
+
+# 🖼️Image
+
+![sq1](https://github.com/user-attachments/assets/3d26a78d-afc2-417a-84b5-a0ea4d88fdbb)
+![sq2](https://github.com/user-attachments/assets/8c5f6642-0b08-4479-99e0-7f737579bc05)
+
+![sq3](https://github.com/user-attachments/assets/b283de2a-5913-4ffe-8152-e67453c056ec)
+![sq4](https://github.com/user-attachments/assets/f51f695b-fbbe-47a5-8590-80ce6e970160)
+![sq5](https://github.com/user-attachments/assets/3d3e5cad-7c47-41be-9622-cae26cd61b9e)
+
+![sq6](https://github.com/user-attachments/assets/8a7f211f-4343-4adf-ab38-2676fe4e3351)
+
+
 # 📥 Dataset
-Sample - Superstore.csv
-A common dataset used for sales analytics, containing customer, product, order, and profit information.
+I found the dataset from kaggle and this is just for educational stuff.
+
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+[Sample - Superstore.csv
+A common dataset used for sales analytics, containing customer, product, order, and profit information.](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
 
 
 
